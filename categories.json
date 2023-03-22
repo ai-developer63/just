@@ -1,0 +1,44 @@
+{
+  "categories": [
+    {
+      "name": "Technology",
+      "image_link": "https://example.com/tech.jpg"
+    },
+    {
+      "name": "Fashion",
+      "image_link": "https://example.com/fashion.jpg"
+    },
+    {
+      "name": "Food",
+      "image_link": "https://example.com/food.jpg"
+    },
+    {
+      "name": "Travel",
+      "image_link": "https://example.com/travel.jpg"
+    },
+    {
+      "name": "Sports",
+      "image_link": "https://example.com/sports.jpg"
+    },
+    {
+      "name": "Entertainment",
+      "image_link": "https://example.com/entertainment.jpg"
+    },
+    {
+      "name": "Education",
+      "image_link": "https://example.com/education.jpg"
+    },
+    {
+      "name": "Health",
+      "image_link": "https://example.com/health.jpg"
+    },
+    {
+      "name": "Business",
+      "image_link": "https://example.com/business.jpg"
+    },
+    {
+      "name": "Art",
+      "image_link": "https://example.com/art.jpg"
+    }
+  ]
+}
