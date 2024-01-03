@@ -1,144 +1,43 @@
 {
   "questions": [
-    {
-      "question_number": "1",
-      "id": 1,
-      "question": "태양계에서 가장 큰 행성은 무엇인가요?",
-      "options": ["지구", "목성", "화성", "토성"],
-      "answer": "목성"
-    },
-    {
-      "question_number": "2",
-      "id": 2,
-      "question": "평창 동계 올림픽이 개최된 연도는 언제인가요?",
-      "options": ["2014", "2016", "2018", "2020"],
-      "answer": "2018"
-    },
-    {
-      "question_number": "3",
-      "id": 3,
-      "question": "한반도의 최고봉은 무엇인가요?",
-      "options": ["한라산", "지리산", "설악산", "덕유산"],
-      "answer": "한라산"
-    },
-    {
-      "question_number": "4",
-      "id": 4,
-      "question": "한국 최초의 왕은 누구인가요?",
-      "options": ["성종", "고조영", "계백", "조선 태조"],
-      "answer": "고조영"
-    },
-    {
-      "question_number": "5",
-      "id": 5,
-      "question": "한글을 창제한 사람은 누구인가요?",
-      "options": ["세종대왕", "태조", "정조", "공민왕"],
-      "answer": "세종대왕"
-    },
-    {
-      "question_number": "6",
-      "id": 6,
-      "question": "대한민국의 수도는 어디인가요?",
-      "options": ["부산", "대구", "서울", "인천"],
-      "answer": "서울"
-    },
-    {
-      "question_number": "7",
-      "id": 7,
-      "question": "한국의 고유 악기는 무엇인가요?",
-      "options": ["가야금", "베이스기타", "피아노", "오카리나"],
-      "answer": "가야금"
-    },
-    {
-      "question_number": "8",
-      "id": 8,
-      "question": "한국의 전통 음식으로 유명한 음식은 무엇인가요?",
-      "options": ["햄버거", "피자", "떡볶이", "파스타"],
-      "answer": "떡볶이"
-    },
-    {
-      "question_number": "9",
-      "id": 9,
-      "question": "한국의 전통적인 여성의 의상은 무엇인가요?",
-      "options": ["한복", "정장", "드레스", "운동복"],
-      "answer": "한복"
-    },
-    {
-      "question_number": "10",
-      "id": 10,
-      "question": "다음 중 유명한 한국 영화 감독은 누구인가요?",
-      "options": ["스필버그", "이창동", "쿠로사와", "봉준호"],
-      "answer": "봉준호"
-    },
-    {
-      "question_number": "11",
-      "id": 11,
-      "question": "한국의 전통적인 단무지는 어떤 채소로 만들어지나요?",
-      "options": ["무", "당근", "양파", "고구마"],
-      "answer": "무"
-    },
-    {
-      "question_number": "12",
-      "id": 12,
-      "question": "한국의 전통적인 놀이 중 하나인 윷놀이에서 '도'는 몇 개의 막대를 의미하나요?",
-      "options": ["1", "2", "3", "4"],
-      "answer": "3"
-    },
-    {
-      "question_number": "13",
-      "id": 13,
-      "question": "한국의 전통적인 건축 양식은 무엇인가요?",
-      "options": ["아파트", "한옥", "사우나", "빌라"],
-      "answer": "한옥"
-    },
-    {
-      "question_number": "14",
-      "id": 14,
-      "question": "한국의 전통적인 음악 중 하나인 판소리의 특징은 무엇인가요?",
-      "options": ["악기", "노래", "춤", "스토리"],
-      "answer": "노래"
-    },
-    {
-      "question_number": "15",
-      "id": 15,
-      "question": "한국의 대표적인 과자로 알려진 것은 무엇인가요?",
-      "options": ["쿠키", "햇반", "빵", "과자"],
-      "answer": "과자"
-    },
-    {
-      "question_number": "16",
-      "id": 16,
-      "question": "한국의 전통적인 술은 무엇인가요?",
-      "options": ["맥주", "소주", "와인", "위스키"],
-      "answer": "소주"
-    },
-    {
-      "question_number": "17",
-      "id": 17,
-      "question": "한국의 전통적인 무술은 무엇인가요?",
-      "options": ["킥복싱", "유도", "태권도", "복싱"],
-      "answer": "태권도"
-    },
-    {
-      "question_number": "18",
-      "id": 18,
-      "question": "한국의 전통적인 명절 중 하나는 무엇인가요?",
-      "options": ["추석", "생일", "크리스마스", "명절 없음"],
-      "answer": "추석"
-    },
-    {
-      "question_number": "19",
-      "id": 19,
-      "question": "한국의 전통적인 놀이 중 하나인 '널뛰기'에서 사용되는 물건은 무엇인가요?",
-      "options": ["바구니", "꼬마", "대나무", "천"],
-      "answer": "대나무"
-    },
-    {
-      "question_number": "20",
-      "id": 20,
-      "question": "한국의 전통적인 식기 중 하나로 사용되는 것은 무엇인가요?",
-      "options": ["플라스틱컵", "도자기", "종이컵", "스테인리스"],
-      "answer": "도자기"
-    }
+    {"question_number": "1", "id": 1, "question": "태양계에서 가장 큰 위성은 무엇인가요?", "options": ["티탄", "차례", "목성 위성", "타이탄"], "answer": 3},
+    {"question_number": "2", "id": 2, "question": "프랑스의 수도는 어디인가요?", "options": ["파리", "리옹", "마르세유", "툴루즈"], "answer": 1},
+    {"question_number": "3", "id": 3, "question": "아시아에서 가장 큰 나라는 어디인가요?", "options": ["중국", "인도", "러시아", "한국"], "answer": 3},
+    {"question_number": "4", "id": 4, "question": "호주의 수도는 무엇인가요?", "options": ["시드니", "멜버른", "캔버라", "브리즈번"], "answer": 3},
+    {"question_number": "5", "id": 5, "question": "지구에서 가장 큰 대륙은 무엇인가요?", "options": ["아프리카", "북아메리카", "아시아", "유럽"], "answer": 3},
+    {"question_number": "6", "id": 6, "question": "아프리카 대륙에서 가장 높은 산은 무엇인가요?", "options": ["킬리만자로", "우루루 산", "엘브루스 산", "모나크산"], "answer": 0},
+    {"question_number": "7", "id": 7, "question": "세계에서 가장 큰 강은 무엇인가요?", "options": ["아마존 강", "단둥 강", "미시시피 강", "낙타강"], "answer": 0},
+    {"question_number": "8", "id": 8, "question": "세계에서 가장 큰 사막은 무엇인가요?", "options": ["사하라 사막", "실리콘 밸리 사막", "계모사 사막", "구비 사막"], "answer": 0},
+    {"question_number": "9", "id": 9, "question": "세계에서 가장 큰 동물은 무엇인가요?", "options": ["판다", "고래", "코끼리", "기린"], "answer": 1},
+    {"question_number": "10", "id": 10, "question": "아메리카 대륙에서 가장 큰 나라는 무엇인가요?", "options": ["캐나다", "아르헨티나", "미국", "브라질"], "answer": 3},
+    {"question_number": "11", "id": 11, "question": "유럽에서 가장 많은 인구를 가진 나라는 어디인가요?", "options": ["독일", "프랑스", "영국", "러시아"], "answer": 0},
+    {"question_number": "12", "id": 12, "question": "세계에서 가장 큰 도시는 무엇인가요?", "options": ["도쿄", "상하이", "뉴욕", "멕시코시티"], "answer": 0},
+    {"question_number": "13", "id": 13, "question": "세계에서 가장 높은 폭포는 무엇인가요?", "options": ["니아가라 폭포", "아마존 폭포", "이과수 폭포", "비크토리아 폭포"], "answer": 0},
+    {"question_number": "14", "id": 14, "question": "유럽에서 가장 작은 나라는 무엇인가요?", "options": ["모나코", "바티칸 시국", "리히텐슈타인", "산마리노"], "answer": 1},
+    {"question_number": "15", "id": 15, "question": "세계에서 가장 깊은 호수는 무엇인가요?", "options": ["바이칼 호", "슈퍼리어 호", "빅토리아 호", "미시간 호"], "answer": 0},
+    {"question_number": "16", "id": 16, "question": "아프리카에서 가장 큰 나라는 무엇인가요?", "options": ["남아프리카 공화국", "나이지리아", "케냐", "카메룬"], "answer": 0},
+    {"question_number": "17", "id": 17, "question": "태양계에서 가장 큰 행성은 무엇인가요?", "options": ["지구", "목성", "화성", "토성"], "answer": 1},
+    {"question_number": "18", "id": 18, "question": "세계에서 가장 오래된 도시는 무엇인가요?", "options": ["다마스쿠스", "아테네", "로마", "카이로"], "answer": 0},
+    {"question_number": "19", "id": 19, "question": "세계에서 가장 많은 섬을 보유한 국가는 무엇인가요?", "options": ["인도네시아", "필리핀", "일본", "말레이시아"], "answer": 0},
+    {"question_number": "20", "id": 20, "question": "세계에서 가장 높은 산은 무엇인가요?", "options": ["에베레스트", "히말라야 산맥", "카라코람 산맥", "킬리만자로"], "answer": 0},
+    {"question_number": "21", "id": 21, "question": "세계에서 가장 큰 도시는 어디인가요?", "options": ["상하이", "도쿄", "뉴욕", "베이징"], "answer": 0},
+    {"question_number": "22", "id": 22, "question": "세계에서 가장 큰 동물은 무엇인가요?", "options": ["고래", "코끼리", "상어", "고릴라"], "answer": 0},
+    {"question_number": "23", "id": 23, "question": "세계에서 가장 큰 대륙은 무엇인가요?", "options": ["아시아", "유럽", "아프리카", "북아메리카"], "answer": 0},
+    {"question_number": "24", "id": 24, "question": "지구에서 가장 큰 바다는 무엇인가요?", "options": ["태평양", "대서양", "인도", "북극"], "answer": 0},
+    {"question_number": "25", "id": 25, "question": "지구에서 가장 큰 호수는 무엇인가요?", "options": ["바이칼 호", "슈퍼리어 호", "빅토리아 호", "아랄 해"], "answer": 0},
+    {"question_number": "26", "id": 26, "question": "세계에서 가장 높은 산은 어디인가요?", "options": ["에베레스트", "히말라야", "카라코람", "쿠스코"], "answer": 0},
+    {"question_number": "27", "id": 27, "question": "태양계에서 가장 가까운 행성은 무엇인가요?", "options": ["수성", "금성", "지구", "화성"], "answer": 0},
+    {"question_number": "28", "id": 28, "question": "세계에서 가장 큰 사막은 어디인가요?", "options": ["사하라", "구비", "실리콘 밸리", "카라하리"], "answer": 0}, {"question_number": "29", "id": 29, "question": "태양계에서 가장 작은 행성은 무엇인가요?", "options": ["지구", "금성", "수성", "화성"], "answer": 2},
+    {"question_number": "30", "id": 30, "question": "세계에서 가장 큰 섬은 무엇인가요?", "options": ["그린랜드", "뉴기니아", "마다가스카르", "타스마니아"], "answer": 0},
+    {"question_number": "31", "id": 31, "question": "태양계에서 가장 큰 혜성은 무엇인가요?", "options": ["헤일리", "헤르메스", "하론", "헤라"], "answer": 0},
+    {"question_number": "32", "id": 32, "question": "유럽에서 가장 큰 호수는 무엇인가요?", "options": ["발톤 호", "코모 호", "토마스 호", "카스피 해"], "answer": 3},
+    {"question_number": "33", "id": 33, "question": "세계에서 가장 오래된 산은 무엇인가요?", "options": ["히말라야 산", "알프스 산맥", "안데스 산맥", "우라루 산"], "answer": 0},
+    {"question_number": "34", "id": 34, "question": "태양계에서 가장 먼 행성은 무엇인가요?", "options": ["금성", "천왕성", "해왕성", "토성"], "answer": 2},
+    {"question_number": "35", "id": 35, "question": "세계에서 가장 거대한 동물은 무엇인가요?", "options": ["코끼리", "고래", "상어", "흰고래"], "answer": 1},
+    {"question_number": "36", "id": 36, "question": "지구에서 가장 깊은 심해는 어디인가요?", "options": ["마리아나 해구", "푸아키타프 심해", "마리아나해구", "마리아나 심해구"], "answer": 0},
+    {"question_number": "37", "id": 37, "question": "세계에서 가장 큰 종교는 무엇인가요?", "options": ["기독교", "이슬람교", "힌두교", "불교"], "answer": 0},
+    {"question_number": "38", "id": 38, "question": "태양계에서 가장 큰 인공 위성은 무엇인가요?", "options": ["스포트니크", "수성 2호", "지구 3호", "타이탄 4호"], "answer": 0},
+    {"question_number": "39", "id": 39, "question": "대한민국의 수도는 어디인가요?", "options": ["부산", "대구", "서울", "인천"], "answer": 2},
+    {"question_number": "40", "id": 40, "question": "한국의 고유 악기는 무엇인가요?", "options": ["가야금", "베이스기타", "피아노", "오카리나"], "answer": 0}
   ]
 }
