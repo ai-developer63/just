@@ -1,4 +1,4 @@
-Link:https://raw.githubusercontent.com/ai-developer63/just/gh-pages/Korean_quiz.json.txt
+
 {
   "questions": [
     {
