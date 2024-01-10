@@ -6,7 +6,7 @@
       "question": "태양계에서 가장 큰 위성은 무엇인가요?",
       "options": ["티탄", "차례", "목성 위성", "타이탄"],
       "answer": 3,
-      "question_photo": "https://fastly.picsum.photos/id/1036/200/200.jpg?hmac=Yb5E0WTltIYlUDPDqT-d0Llaaq0mJnwiCUtxx8RrtVE",
+      "question_photo": "https://picsum.photos/seed/picsum/200/300",
       "question_audio": "https://samplelib.com/lib/preview/mp3/sample-6s.mp3"
     },
     {
