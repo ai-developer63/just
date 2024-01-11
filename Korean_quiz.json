@@ -1,7 +1,6 @@
-
 {
   "questions": [
-      {
+    {
       "question_number": "1",
       "id": 1,
       "question": "태양계에서 가장 큰 위성은 무엇인가요?",
@@ -25,7 +24,7 @@
       "question": "아시아에서 가장 큰 나라는 어디인가요?",
       "options": ["중국", "인도", "러시아", "한국"],
       "answer": 3,
-      "question_photo": "https://random.imagecdn.app/500/150",
+      "question_photo": "https://firebasestorage.googleapis.com/v0/b/quize-me-43138.appspot.com/o/koreantext5.jpg?alt=media&token=5517a102-36cd-4f3b-83fa-3110d54f5750",
       "question_audio": null
     },
     {
@@ -43,7 +42,7 @@
       "question": "지구에서 가장 큰 대륙은 무엇인가요?",
       "options": ["아프리카", "북아메리카", "아시아", "유럽"],
       "answer": 3,
-      "question_photo": "https://random.imagecdn.app/500/150",
+      "question_photo": "https://firebasestorage.googleapis.com/v0/b/quize-me-43138.appspot.com/o/koreantext4.jpg?alt=media&token=45dc5b55-9103-4bd9-ae74-39afd5bb07fb",
       "question_audio": "https://samplelib.com/lib/preview/mp3/sample-15s.mp3"
     },
     {
@@ -70,7 +69,7 @@
       "question": "세계에서 가장 큰 사막은 무엇인가요?",
       "options": ["사하라 사막", "실리콘 밸리 사막", "계모사 사막", "구비 사막"],
       "answer": 0,
-      "question_photo": "https://random.imagecdn.app/500/150",
+      "question_photo": "https://firebasestorage.googleapis.com/v0/b/quize-me-43138.appspot.com/o/koreantext4.jpg?alt=media&token=45dc5b55-9103-4bd9-ae74-39afd5bb07fb",
       "question_audio": "https://samplelib.com/lib/preview/mp3/sample-12s.mp3"
     },
     {
@@ -106,7 +105,7 @@
       "question": "세계에서 가장 큰 도시는 무엇인가요?",
       "options": ["도쿄", "상하이", "뉴욕", "멕시코시티"],
       "answer": 0,
-      "question_photo": "https://random.imagecdn.app/500/150",
+      "question_photo": "https://firebasestorage.googleapis.com/v0/b/quize-me-43138.appspot.com/o/koreantext1.svg?alt=media&token=647cc0f6-3d42-4502-8196-31fe9c5f7f7e",
       "question_audio": "https://samplelib.com/lib/preview/mp3/sample-18s.mp3"
     },
     {
