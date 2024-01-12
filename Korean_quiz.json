@@ -1,4 +1,3 @@
-
 {
   "questions": [
     {
@@ -6,6 +5,7 @@
       "id": 1,
       "question": "태양계에서 가장 큰 위성은 무엇인가요?",
       "options": ["티탄", "차례", "목성 위성", "타이탄"],
+      "optiontype":"text",
       "answer": 3,
       "question_photo": "https://firebasestorage.googleapis.com/v0/b/quize-me-43138.appspot.com/o/koreantext3.jpg?alt=media&token=4624e026-ae71-4de8-a876-5a868be75732",
       "question_audio": "https://firebasestorage.googleapis.com/v0/b/quize-me-43138.appspot.com/o/bolly-trap-drumloop-140bpm-136739.mp3?alt=media&token=8343b3d7-5ecc-425d-94d7-02a9190734ae"
@@ -15,6 +15,7 @@
       "id": 2,
       "question": "프랑스의 수도는 어디인가요?",
       "options": ["파리", "리옹", "마르세유", "툴루즈"],
+      "optiontype":"text",
       "answer": 1,
       "question_photo": null,
       "question_audio": "https://firebasestorage.googleapis.com/v0/b/quize-me-43138.appspot.com/o/bright-notifications-151766.mp3?alt=media&token=f0832230-d409-4242-abfb-da6c63fbd646"
@@ -24,6 +25,7 @@
       "id": 3,
       "question": "아시아에서 가장 큰 나라는 어디인가요?",
       "options": ["중국", "인도", "러시아", "한국"],
+      "optiontype":"text",
       "answer": 3,
       "question_photo": "https://firebasestorage.googleapis.com/v0/b/quize-me-43138.appspot.com/o/koreantext5.jpg?alt=media&token=5517a102-36cd-4f3b-83fa-3110d54f5750",
       "question_audio": null
@@ -33,6 +35,7 @@
       "id": 4,
       "question": "호주의 수도는 무엇인가요?",
       "options": ["시드니", "멜버른", "캔버라", "브리즈번"],
+      "optiontype":"text",
       "answer": 3,
       "question_photo": null,
       "question_audio": null
@@ -42,6 +45,7 @@
       "id": 5,
       "question": "지구에서 가장 큰 대륙은 무엇인가요?",
       "options": ["아프리카", "북아메리카", "아시아", "유럽"],
+      "optiontype":"text",
       "answer": 3,
       "question_photo": "https://firebasestorage.googleapis.com/v0/b/quize-me-43138.appspot.com/o/koreantext4.jpg?alt=media&token=45dc5b55-9103-4bd9-ae74-39afd5bb07fb",
       "question_audio": "https://firebasestorage.googleapis.com/v0/b/quize-me-43138.appspot.com/o/error-2-126514.mp3?alt=media&token=384d100b-fe03-487f-9a65-a96ca0bf4baa"
@@ -51,6 +55,7 @@
       "id": 6,
       "question": "아프리카 대륙에서 가장 높은 산은 무엇인가요?",
       "options": ["킬리만자로", "우루루 산", "엘브루스 산", "모나크산"],
+      "optiontype":"text",
       "answer": 0,
       "question_photo": null,
       "question_audio": "https://firebasestorage.googleapis.com/v0/b/quize-me-43138.appspot.com/o/electronic-siren-81719.mp3?alt=media&token=90839ede-d86a-43c4-9d68-017a68bfd758"
@@ -60,6 +65,7 @@
       "id": 7,
       "question": "세계에서 가장 큰 강은 무엇인가요?",
       "options": ["아마존 강", "단둥 강", "미시시피 강", "낙타강"],
+      "optiontype":"text",
       "answer": 0,
       "question_photo": "https://firebasestorage.googleapis.com/v0/b/quize-me-43138.appspot.com/o/219-2198895_freefire-garena-free-fire-paloma-character-free-fire.png?alt=media&token=3a0efb3c-c1b2-4629-aef0-921fe0171b91",
       "question_audio": null
@@ -69,6 +75,7 @@
       "id": 8,
       "question": "세계에서 가장 큰 사막은 무엇인가요?",
       "options": ["사하라 사막", "실리콘 밸리 사막", "계모사 사막", "구비 사막"],
+      "optiontype":"text",
       "answer": 0,
       "question_photo": "https://firebasestorage.googleapis.com/v0/b/quize-me-43138.appspot.com/o/koreantext4.jpg?alt=media&token=45dc5b55-9103-4bd9-ae74-39afd5bb07fb",
       "question_audio": "https://firebasestorage.googleapis.com/v0/b/quize-me-43138.appspot.com/o/bolly-trap-drumloop-140bpm-136739.mp3?alt=media&token=8343b3d7-5ecc-425d-94d7-02a9190734ae"
@@ -78,6 +85,7 @@
       "id": 9,
       "question": "세계에서 가장 큰 동물은 무엇인가요?",
       "options": ["판다", "고래", "코끼리", "기린"],
+      "optiontype":"text",
       "answer": 1,
       "question_photo": "https://firebasestorage.googleapis.com/v0/b/quize-me-43138.appspot.com/o/5%20kingdom.jpg?alt=media&token=0b0a2c04-b5b8-46e7-b7cd-2534ee7686c7",
       "question_audio": null
@@ -87,6 +95,7 @@
       "id": 10,
       "question": "아메리카 대륙에서 가장 큰 나라는 무엇인가요?",
       "options": ["캐나다", "아르헨티나", "미국", "브라질"],
+      "optiontype":"text",
       "answer": 3,
       "question_photo": null,
       "question_audio": null
@@ -96,6 +105,7 @@
       "id": 11,
       "question": "유럽에서 가장 많은 인구를 가진 나라는 어디인가요?",
       "options": ["독일", "프랑스", "영국", "러시아"],
+      "optiontype":"text",
       "answer": 0,
       "question_photo": "https://firebasestorage.googleapis.com/v0/b/quize-me-43138.appspot.com/o/koreantext2.png?alt=media&token=494778fd-353e-4d7a-b95b-ac894cdfdc8c",
       "question_audio": null
@@ -105,6 +115,7 @@
       "id": 12,
       "question": "세계에서 가장 큰 도시는 무엇인가요?",
       "options": ["도쿄", "상하이", "뉴욕", "멕시코시티"],
+      "optiontype":"text",
       "answer": 0,
       "question_photo": "https://firebasestorage.googleapis.com/v0/b/quize-me-43138.appspot.com/o/koreantext4.jpg?alt=media&token=45dc5b55-9103-4bd9-ae74-39afd5bb07fb",
       "question_audio": "https://firebasestorage.googleapis.com/v0/b/quize-me-43138.appspot.com/o/positive-response-81640.mp3?alt=media&token=cff14417-27c7-4f95-a441-c2777b957e92"
@@ -114,6 +125,7 @@
       "id": 13,
       "question": "세계에서 가장 높은 폭포는 무엇인가요?",
       "options": ["니아가라 폭포", "아마존 폭포", "이과수 폭포", "비크토리아 폭포"],
+      "optiontype":"text",
       "answer": 0,
       "question_photo": "https://firebasestorage.googleapis.com/v0/b/quize-me-43138.appspot.com/o/koreantext5.jpg?alt=media&token=5517a102-36cd-4f3b-83fa-3110d54f5750",
       "question_audio": null
@@ -123,6 +135,7 @@
       "id": 14,
       "question": "유럽에서 가장 작은 나라는 무엇인가요?",
       "options": ["모나코", "바티칸 시국", "리히텐슈타인", "산마리노"],
+      "optiontype":"text",
       "answer": 1,
       "question_photo": null,
       "question_audio": "https://firebasestorage.googleapis.com/v0/b/quize-me-43138.appspot.com/o/sample-6s.mp3?alt=media&token=d3388926-81ab-461c-ba82-b3b0457e3e29"
@@ -132,6 +145,7 @@
       "id": 15,
       "question": "세계에서 가장 깊은 호수는 무엇인가요?",
       "options": ["바이칼 호", "슈퍼리어 호", "빅토리아 호", "미시간 호"],
+      "optiontype":"text",
       "answer": 0,
       "question_photo": "https://firebasestorage.googleapis.com/v0/b/quize-me-43138.appspot.com/o/business-english-small-1024x630-1024x630.jpg?alt=media&token=a3735cc6-7abc-4e66-b31c-7acb456408da",
       "question_audio": null
@@ -141,6 +155,7 @@
       "id": 16,
       "question": "아프리카에서 가장 큰 나라는 무엇인가요?",
       "options": ["남아프리카 공화국", "나이지리아", "케냐", "카메룬"],
+      "optiontype":"text",
       "answer": 0,
       "question_photo": null,
       "question_audio": "https://firebasestorage.googleapis.com/v0/b/quize-me-43138.appspot.com/o/vocoder-program-b87-test-15917.mp3?alt=media&token=fe49bf53-1876-497e-b367-0b3073498bc1"
@@ -150,6 +165,7 @@
       "id": 17,
       "question": "태양계에서 가장 큰 행성은 무엇인가요?",
       "options": ["지구", "목성", "화성", "토성"],
+      "optiontype":"text",
       "answer": 1,
       "question_photo": "https://firebasestorage.googleapis.com/v0/b/quize-me-43138.appspot.com/o/bhagavad-Gita-and-krishna-arjuna.jpg?alt=media&token=a5d62a2f-cfb4-4b33-ae0e-aa0852c900da",
       "question_audio": null
@@ -159,6 +175,7 @@
       "id": 18,
       "question": "세계에서 가장 오래된 도시는 무엇인가요?",
       "options": ["다마스쿠스", "아테네", "로마", "카이로"],
+      "optiontype":"text",
       "answer": 0,
       "question_photo": "https://firebasestorage.googleapis.com/v0/b/quize-me-43138.appspot.com/o/koreantext4.jpg?alt=media&token=45dc5b55-9103-4bd9-ae74-39afd5bb07fb",
       "question_audio": null
@@ -168,6 +185,7 @@
       "id": 19,
       "question": "세계에서 가장 많은 섬을 보유한 국가는 무엇인가요?",
       "options": ["인도네시아", "필리핀", "일본", "말레이시아"],
+      "optiontype":"text",
       "answer": 0,
       "question_photo": null,
       "question_audio": "https://firebasestorage.googleapis.com/v0/b/quize-me-43138.appspot.com/o/requested-quiz-file-27473.mp3?alt=media&token=e1e460b4-0d82-409a-bf4b-fdff57554899"
@@ -177,6 +195,7 @@
       "id": 20,
       "question": "세계에서 가장 높은 산은 무엇인가요?",
       "options": ["에베레스트", "히말라야 산맥", "카라코람 산맥", "킬리만자로"],
+      "optiontype":"text",
       "answer": 0,
       "question_photo": "https://firebasestorage.googleapis.com/v0/b/quize-me-43138.appspot.com/o/app-update-1449009-1225130.png?alt=media&token=c390e9a0-b9a4-4395-b3da-6c88dc71ded7",
       "question_audio": null
@@ -186,6 +205,7 @@
       "id": 21,
       "question": "세계에서 가장 큰 도시는 어디인가요?",
       "options": ["상하이", "도쿄", "뉴욕", "베이징"],
+      "optiontype":"text",
       "answer": 0,
       "question_photo": "https://firebasestorage.googleapis.com/v0/b/quize-me-43138.appspot.com/o/drama.png?alt=media&token=a0957ec4-22e1-4f49-9841-6590a64f8146",
       "question_audio": null
@@ -195,6 +215,7 @@
       "id": 22,
       "question": "세계에서 가장 큰 동물은 무엇인가요?",
       "options": ["고래", "코끼리", "상어", "고릴라"],
+      "optiontype":"text",
       "answer": 0,
       "question_photo": "https://firebasestorage.googleapis.com/v0/b/quize-me-43138.appspot.com/o/icon.png?alt=media&token=307e2b62-386f-4384-881e-4074b48dcbfd",
       "question_audio": "https://firebasestorage.googleapis.com/v0/b/quize-me-43138.appspot.com/o/vocoder-program-b87-test-15917.mp3?alt=media&token=fe49bf53-1876-497e-b367-0b3073498bc1"
@@ -204,6 +225,7 @@
       "id": 23,
       "question": "세계에서 가장 큰 대륙은 무엇인가요?",
       "options": ["아시아", "유럽", "아프리카", "북아메리카"],
+      "optiontype":"text",
       "answer": 0,
       "question_photo": "https://firebasestorage.googleapis.com/v0/b/quize-me-43138.appspot.com/o/Thumbnail1-min.jpg?alt=media&token=93f61954-2234-4c0c-b705-374dd761b27e",
       "question_audio": null
@@ -213,6 +235,7 @@
       "id": 24,
       "question": "지구에서 가장 큰 바다는 무엇인가요?",
       "options": ["태평양", "대서양", "인도", "북극"],
+      "optiontype":"text",
       "answer": 0,
       "question_photo": "https://firebasestorage.googleapis.com/v0/b/quize-me-43138.appspot.com/o/puzzle.png?alt=media&token=53dc0f74-257c-479f-befd-600b23a12ac0",
       "question_audio": null
@@ -221,6 +244,7 @@
       "id": 25,
       "question": "지구에서 가장 큰 호수는 무엇인가요?",
       "options": ["바이칼 호", "슈퍼리어 호", "빅토리아 호", "아랄 해"],
+      "optiontype":"text",
       "answer": 0,
       "question_photo": "https://firebasestorage.googleapis.com/v0/b/quize-me-43138.appspot.com/o/koreantext3.jpg?alt=media&token=4624e026-ae71-4de8-a876-5a868be75732",
       "question_audio": null
@@ -230,6 +254,7 @@
       "id": 26,
       "question": "세계에서 가장 높은 산은 어디인가요?",
       "options": ["에베레스트", "히말라야", "카라코람", "쿠스코"],
+      "optiontype":"text",
       "answer": 0,
       "question_photo": "https://firebasestorage.googleapis.com/v0/b/quize-me-43138.appspot.com/o/science.png?alt=media&token=88583918-c020-4a64-b30b-00782eb13529",
       "question_audio": "https://firebasestorage.googleapis.com/v0/b/quize-me-43138.appspot.com/o/bolly-trap-drumloop-140bpm-136739.mp3?alt=media&token=8343b3d7-5ecc-425d-94d7-02a9190734ae"
@@ -239,6 +264,7 @@
       "id": 27,
       "question": "태양계에서 가장 가까운 행성은 무엇인가요?",
       "options": ["수성", "금성", "지구", "화성"],
+      "optiontype":"text",
       "answer": 0,
       "question_photo": null,
       "question_audio": "https://firebasestorage.googleapis.com/v0/b/quize-me-43138.appspot.com/o/bright-notifications-151766.mp3?alt=media&token=f0832230-d409-4242-abfb-da6c63fbd646"
@@ -248,6 +274,7 @@
       "id": 28,
       "question": "세계에서 가장 큰 사막은 어디인가요?",
       "options": ["사하라", "구비", "실리콘 밸리", "카라하리"],
+      "optiontype":"text",
       "answer": 0,
       "question_photo": "https://firebasestorage.googleapis.com/v0/b/quize-me-43138.appspot.com/o/koreantext4.jpg?alt=media&token=45dc5b55-9103-4bd9-ae74-39afd5bb07fb",
       "question_audio": null
@@ -257,6 +284,7 @@
       "id": 29,
       "question": "태양계에서 가장 작은 행성은 무엇인가요?",
       "options": ["지구", "금성", "수성", "화성"],
+      "optiontype":"text",
       "answer": 2,
       "question_photo": null,
       "question_audio": "https://firebasestorage.googleapis.com/v0/b/quize-me-43138.appspot.com/o/copper-bell-ding-2-172686.mp3?alt=media&token=559145d3-0d36-4cd8-bbc6-e5d6c55d1a3f"
@@ -265,7 +293,8 @@
       "question_number": "30",
       "id": 30,
       "question": "세계에서 가장 큰 섬은 무엇인가요?",
-      "options": ["그린랜드", "뉴기니아", "마다가스카르", "타스마니아"],
+      "options": ["https://firebasestorage.googleapis.com/v0/b/quize-me-43138.appspot.com/o/bright-notifications-151766.mp3?alt=media&token=f0832230-d409-4242-abfb-da6c63fbd646","https://firebasestorage.googleapis.com/v0/b/quize-me-43138.appspot.com/o/copper-bell-ding-2-172686.mp3?alt=media&token=559145d3-0d36-4cd8-bbc6-e5d6c55d1a3f", "https://firebasestorage.googleapis.com/v0/b/quize-me-43138.appspot.com/o/requested-quiz-file-27473.mp3?alt=media&token=e1e460b4-0d82-409a-bf4b-fdff57554899","https://firebasestorage.googleapis.com/v0/b/quize-me-43138.appspot.com/o/electronic-siren-81719.mp3?alt=media&token=90839ede-d86a-43c4-9d68-017a68bfd758"],
+      "optiontype":"audio",
       "answer": 0,
       "question_photo": "https://firebasestorage.googleapis.com/v0/b/quize-me-43138.appspot.com/o/koreantext5.jpg?alt=media&token=5517a102-36cd-4f3b-83fa-3110d54f5750",
       "question_audio": null
@@ -274,6 +303,7 @@
       "id": 30,
       "question": "세계에서 가장 큰 섬은 무엇인가요?",
       "options": ["그린랜드", "뉴기니아", "마다가스카르", "타스마니아"],
+      "optiontype":"text",
       "answer": 0,
       "question_photo": "https://firebasestorage.googleapis.com/v0/b/quize-me-43138.appspot.com/o/koreantext4.jpg?alt=media&token=45dc5b55-9103-4bd9-ae74-39afd5bb07fb",
       "question_audio": null
@@ -283,6 +313,7 @@
       "id": 31,
       "question": "태양계에서 가장 큰 혜성은 무엇인가요?",
       "options": ["헤일리", "헤르메스", "하론", "헤라"],
+      "optiontype":"text",
       "answer": 0,
       "question_photo": null,
       "question_audio": "https://firebasestorage.googleapis.com/v0/b/quize-me-43138.appspot.com/o/electronic-siren-81719.mp3?alt=media&token=90839ede-d86a-43c4-9d68-017a68bfd758"
@@ -292,6 +323,7 @@
       "id": 32,
       "question": "유럽에서 가장 큰 호수는 무엇인가요?",
       "options": ["발톤 호", "코모 호", "토마스 호", "카스피 해"],
+      "optiontype":"text",
       "answer": 3,
       "question_photo": "https://firebasestorage.googleapis.com/v0/b/quize-me-43138.appspot.com/o/mathematics.png?alt=media&token=00260deb-9e58-40a4-86fe-1749164d7559",
       "question_audio": null
@@ -300,7 +332,8 @@
       "question_number": "33",
       "id": 33,
       "question": "세계에서 가장 오래된 산은 무엇인가요?",
-      "options": ["히말라야 산", "알프스 산맥", "안데스 산맥", "우라루 산"],
+      "options": ["https://firebasestorage.googleapis.com/v0/b/quize-me-43138.appspot.com/o/bright-notifications-151766.mp3?alt=media&token=f0832230-d409-4242-abfb-da6c63fbd646","https://firebasestorage.googleapis.com/v0/b/quize-me-43138.appspot.com/o/copper-bell-ding-2-172686.mp3?alt=media&token=559145d3-0d36-4cd8-bbc6-e5d6c55d1a3f", "https://firebasestorage.googleapis.com/v0/b/quize-me-43138.appspot.com/o/requested-quiz-file-27473.mp3?alt=media&token=e1e460b4-0d82-409a-bf4b-fdff57554899","https://firebasestorage.googleapis.com/v0/b/quize-me-43138.appspot.com/o/electronic-siren-81719.mp3?alt=media&token=90839ede-d86a-43c4-9d68-017a68bfd758"],
+      "optiontype":"audio",
       "answer": 0,
       "question_photo": "https://firebasestorage.googleapis.com/v0/b/quize-me-43138.appspot.com/o/koreantext5.jpg?alt=media&token=5517a102-36cd-4f3b-83fa-3110d54f5750",
       "question_audio": "https://firebasestorage.googleapis.com/v0/b/quize-me-43138.appspot.com/o/bolly-trap-drumloop-140bpm-136739.mp3?alt=media&token=8343b3d7-5ecc-425d-94d7-02a9190734ae"
@@ -310,6 +343,7 @@
       "id": 34,
       "question": "태양계에서 가장 먼 행성은 무엇인가요?",
       "options": ["금성", "천왕성", "해왕성", "토성"],
+      "optiontype":"text",
       "answer": 2,
       "question_photo": null,
       "question_audio": "https://firebasestorage.googleapis.com/v0/b/quize-me-43138.appspot.com/o/business-english-small-1024x630-1024x630.jpg?alt=media&token=a3735cc6-7abc-4e66-b31c-7acb456408da"
@@ -319,6 +353,7 @@
       "id": 35,
       "question": "세계에서 가장 거대한 동물은 무엇인가요?",
       "options": ["코끼리", "고래", "상어", "흰고래"],
+      "optiontype":"text",
       "answer": 1,
       "question_photo": "https://firebasestorage.googleapis.com/v0/b/quize-me-43138.appspot.com/o/business-english-small-1024x630-1024x630.jpg?alt=media&token=a3735cc6-7abc-4e66-b31c-7acb456408da",
       "question_audio": null
@@ -328,6 +363,7 @@
       "id": 36,
       "question": "지구에서 가장 깊은 심해는 어디인가요?",
       "options": ["마리아나 해구", "푸아키타프 심해", "마리아나해구", "마리아나 심해구"],
+      "optiontype":"text",
       "answer": 0,
       "question_photo": null,
       "question_audio": "https://firebasestorage.googleapis.com/v0/b/quize-me-43138.appspot.com/o/error-2-126514.mp3?alt=media&token=384d100b-fe03-487f-9a65-a96ca0bf4baa"
@@ -337,6 +373,7 @@
       "id": 37,
       "question": "세계에서 가장 큰 종교는 무엇인가요?",
       "options": ["기독교", "이슬람교", "힌두교", "불교"],
+      "optiontype":"text",
       "answer": 0,
       "question_photo": "https://firebasestorage.googleapis.com/v0/b/quize-me-43138.appspot.com/o/c1010bf1fcfa081ae72182d5b972f192.jpg?alt=media&token=5b89bc15-b7db-4a6e-a34c-1b50fafb3591",
       "question_audio": null
@@ -346,6 +383,7 @@
       "id": 38,
       "question": "태양계에서 가장 큰 인공 위성은 무엇인가요?",
       "options": ["스포트니크", "수성 2호", "지구 3호", "타이탄 4호"],
+      "optiontype":"text",
       "answer": 0,
       "question_photo": null,
       "question_audio": "https://firebasestorage.googleapis.com/v0/b/quize-me-43138.appspot.com/o/electronic-siren-81719.mp3?alt=media&token=90839ede-d86a-43c4-9d68-017a68bfd758"
@@ -354,7 +392,8 @@
       "question_number": "39",
       "id": 39,
       "question": "대한민국의 수도는 어디인가요?",
-      "options": ["부산", "대구", "서울", "인천"],
+       "options": ["https://firebasestorage.googleapis.com/v0/b/quize-me-43138.appspot.com/o/bright-notifications-151766.mp3?alt=media&token=f0832230-d409-4242-abfb-da6c63fbd646","https://firebasestorage.googleapis.com/v0/b/quize-me-43138.appspot.com/o/copper-bell-ding-2-172686.mp3?alt=media&token=559145d3-0d36-4cd8-bbc6-e5d6c55d1a3f", "https://firebasestorage.googleapis.com/v0/b/quize-me-43138.appspot.com/o/requested-quiz-file-27473.mp3?alt=media&token=e1e460b4-0d82-409a-bf4b-fdff57554899","https://firebasestorage.googleapis.com/v0/b/quize-me-43138.appspot.com/o/electronic-siren-81719.mp3?alt=media&token=90839ede-d86a-43c4-9d68-017a68bfd758"],
+      "optiontype":"audio",
       "answer": 2,
       "question_photo": "https://firebasestorage.googleapis.com/v0/b/quize-me-43138.appspot.com/o/Template%20(1).jpg?alt=media&token=074700d4-2506-4c9b-b6c6-e1e87b9e8135",
       "question_audio": null
@@ -364,6 +403,7 @@
       "id": 40,
       "question": "한국의 고유 악기는 무엇인가요?",
       "options": ["가야금", "베이스기타", "피아노", "오카리나"],
+      "optiontype":"text",
       "answer": 0,
       "question_photo": null,
       "question_audio": "https://firebasestorage.googleapis.com/v0/b/quize-me-43138.appspot.com/o/requested-quiz-file-27473.mp3?alt=media&token=e1e460b4-0d82-409a-bf4b-fdff57554899"
