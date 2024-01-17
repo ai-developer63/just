@@ -298,15 +298,6 @@
       "answer": 0,
       "question_photo": "https://firebasestorage.googleapis.com/v0/b/quize-me-43138.appspot.com/o/koreantext5.jpg?alt=media&token=5517a102-36cd-4f3b-83fa-3110d54f5750",
       "question_audio": null
-    }, {
-      "question_number": "30",
-      "id": 30,
-      "question": "세계에서 가장 큰 섬은 무엇인가요?",
-      "options": ["그린랜드", "뉴기니아", "마다가스카르", "타스마니아"],
-      "optiontype":"text",
-      "answer": 0,
-      "question_photo": "https://firebasestorage.googleapis.com/v0/b/quize-me-43138.appspot.com/o/koreantext4.jpg?alt=media&token=45dc5b55-9103-4bd9-ae74-39afd5bb07fb",
-      "question_audio": null
     },
     {
       "question_number": "31",
