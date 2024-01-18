@@ -30,12 +30,12 @@
       "question_photo": "https://firebasestorage.googleapis.com/v0/b/quize-me-43138.appspot.com/o/koreantext5.jpg?alt=media&token=5517a102-36cd-4f3b-83fa-3110d54f5750",
       "question_audio": null
     },
-    {
+      {
       "question_number": "4",
       "id": 4,
       "question": "호주의 수도는 무엇인가요?",
-      "options": ["시드니", "멜버른", "캔버라", "브리즈번"],
-      "optiontype":"text",
+      "options": ["https://firebasestorage.googleapis.com/v0/b/quize-me-43138.appspot.com/o/219-2198895_freefire-garena-free-fire-paloma-character-free-fire.png?alt=media&token=3a0efb3c-c1b2-4629-aef0-921fe0171b91", "https://firebasestorage.googleapis.com/v0/b/quize-me-43138.appspot.com/o/Template-min.jpg?alt=media&token=75cc59e5-c554-4e14-9d24-cab42c32b0ee", "https://firebasestorage.googleapis.com/v0/b/quize-me-43138.appspot.com/o/app-update-1449009-1225130.png?alt=media&token=c390e9a0-b9a4-4395-b3da-6c88dc71ded7", "https://firebasestorage.googleapis.com/v0/b/quize-me-43138.appspot.com/o/bhagavad-Gita-and-krishna-arjuna.jpg?alt=media&token=a5d62a2f-cfb4-4b33-ae0e-aa0852c900da"],
+      "optiontype":"img",
       "answer": 3,
       "question_photo": null,
       "question_audio": null
