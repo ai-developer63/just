@@ -1,0 +1,56 @@
+{
+    "questions": [
+        {
+            "qusNo": 1,
+            "setNo": "1",
+            "chapterNo": "7",
+            "qusHeading": "abc",
+            "subQuestion": "abcd",
+            "questionType": "text",
+            "question": "what is your name",
+            "optionType": "text",
+            "options": [
+                "subash",
+                "sabina",
+                "prem",
+                "ganga"
+            ],
+            "correctOption": "0",
+            "remarks": "xyz"
+        },
+        {
+            "qusNo": 2,
+            "setNo": "1",
+            "chapterNo": "7",
+            "qusHeading": "adhfkj",
+            "subQuestion": "hjdfj",
+            "questionType": "text",
+            "question": "where did you born",
+            "optionType": "text",
+            "options": [
+                "manigram",
+                "ramapur",
+                "butwal",
+                "kathmandu"
+            ],
+            "correctOption": "2",
+            "remarks": "sdf"
+        }
+    ],
+    "answers": [
+        {
+            "id": 1,
+            "userName": "subash",
+            "setNo": "1",
+            "questionNo": 1,
+            "selectedAnswer": "0"
+        },
+        {
+            "id": 2,
+            "userName": "subash",
+            "setNo": "1",
+            "questionNo": 2,
+            "selectedAnswer": "2"
+        }
+    ]
+}
