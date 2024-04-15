@@ -22,7 +22,7 @@
 "name_of_model":"30 Practice Sets",
 "description":"30 Practice set this is best Exam Orientate.",
 "price" : "NRP 1000",
-"purchased":"true",
+"purchased":"false",
 "numberofset":"5",
 "linkaddon":"/30sets",
 "startFrom":"21"
@@ -48,7 +48,7 @@
 "name_of_model":"70 Practice Sets",
 "description":"70 Practice set this is best Exam Orientate.",
 "price" : "NRP 2500",
-"purchased":"true",
+"purchased":"false",
 "numberofset":"5",
 "linkaddon":"/70sets"
 },
@@ -64,7 +64,7 @@
 "name_of_model":"100 Practice Sets",
 "description":"100 Practice set this is best Exam Orientate.",
 "price" : "NRP 3500",
-"purchased":"true",
+"purchased":"false",
 "numberofset":"5",
 "linkaddon":"/100sets"
 }
