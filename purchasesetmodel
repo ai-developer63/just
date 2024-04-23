@@ -15,7 +15,7 @@
 "price" : "NRP 500",
 "purchased":"false",
 "numberofset":"5",
-"linkaddon":"/20sets",
+"linkaddon":"/20Set",
 "startFrom":"4"
 },
 {
@@ -24,7 +24,7 @@
 "price" : "NRP 1000",
 "purchased":"false",
 "numberofset":"5",
-"linkaddon":"/30sets",
+"linkaddon":"/30Set",
 "startFrom":"21"
 },
 {
@@ -33,7 +33,7 @@
 "price" : "NRP 1500",
 "purchased":"false",
 "numberofset":"5",
-"linkaddon":"/40sets",
+"linkaddon":"/40Set",
 "startFrom":"31"
 },
 {
@@ -42,7 +42,7 @@
 "price" : "NRP 2000",
 "purchased":"false",
 "numberofset":"5",
-"linkaddon":"/50sets"
+"linkaddon":"/50Set"
 },
 {
 "name_of_model":"70 Practice Sets",
@@ -50,7 +50,7 @@
 "price" : "NRP 2500",
 "purchased":"false",
 "numberofset":"5",
-"linkaddon":"/70sets"
+"linkaddon":"/70Set"
 },
 {
 "name_of_model":"90 Practice Sets",
@@ -58,7 +58,7 @@
 "price" : "NRP 3000",
 "purchased":"false",
 "numberofset":"5",
-"linkaddon":"/90sets"
+"linkaddon":"/90Set"
 },
 {
 "name_of_model":"100 Practice Sets",
@@ -66,6 +66,6 @@
 "price" : "NRP 3500",
 "purchased":"false",
 "numberofset":"5",
-"linkaddon":"/100sets"
+"linkaddon":"/100Set"
 }
 ]}
