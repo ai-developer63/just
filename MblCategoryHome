@@ -1,0 +1,24 @@
+{
+"categories":[
+
+{
+"name":"Courses",
+"icon":"https://firebasestorage.googleapis.com/v0/b/free-bsc-and-mobile.appspot.com/o/Mbl_App_Content%2FimageIcon%2Fcourse.png?alt=media&token=153e4e90-8f45-4b58-b901-3122c4599845",
+"clickResponse":"a"
+},
+
+{
+"name":"Schematic",
+"icon":"https://firebasestorage.googleapis.com/v0/b/free-bsc-and-mobile.appspot.com/o/Mbl_App_Content%2FimageIcon%2Fcourse.png?alt=media&token=153e4e90-8f45-4b58-b901-3122c4599845",
+"clickResponse":"b"
+},
+
+{
+"name":"Buy Tools",
+"icon":"https://firebasestorage.googleapis.com/v0/b/free-bsc-and-mobile.appspot.com/o/Mbl_App_Content%2FimageIcon%2Fshopping-cart.png?alt=media&token=208d84ef-5a81-49a7-9734-7bc3fe9a2f47",
+"clickResponse":"c"
+}
+
+]
+
+}
