@@ -17,6 +17,12 @@
 "name":"Buy Tools",
 "icon":"https://firebasestorage.googleapis.com/v0/b/free-bsc-and-mobile.appspot.com/o/Mbl_App_Content%2FimageIcon%2Fshopping-cart.png?alt=media&token=208d84ef-5a81-49a7-9734-7bc3fe9a2f47",
 "clickResponse":"c"
+},
+
+{
+"name":"Videos",
+"icon":"https://firebasestorage.googleapis.com/v0/b/free-bsc-and-mobile.appspot.com/o/Mbl_App_Content%2FimageIcon%2Fplay.png?alt=media&token=51ad79b4-41b3-4e9f-bd3e-9763b2a4f013",
+"clickResponse":"d"
 }
 
 ]
