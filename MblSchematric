@@ -62,6 +62,12 @@
 "logo":"https://vpn-nepali.firebaseapp.com/Sony_full/Sony.png",
 "clickAble":"/Sony_full/sony.json",
 "assetsArea":"/Sony_full/"
+},
+{
+"name":"Vivo",
+"logo":"https://vpn-nepali.firebaseapp.com/vivo_full/Vivo-Logo.png",
+"clickAble":"/vivo_full/vivo.json",
+"assetsArea":"/vivo_full/"
 }
 ]
 }
