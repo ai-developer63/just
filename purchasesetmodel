@@ -44,32 +44,4 @@
 "numberofset":"30",
 "linkaddon":"/30Set",
 "startFrom":"4"
-},
-{
-"name_of_model":"50 Practice Sets",
-"description":"50 Practice set this is best Exam Orientate.",
-"price" : "NRP 400",
-"purchased":"false",
-"numberofset":"50",
-"linkaddon":"/50Set",
-"startFrom":"4"
-},
-{
-"name_of_model":"70 Practice Sets",
-"description":"70 Practice set this is best Exam Orientate.",
-"price" : "NRP 500",
-"purchased":"false",
-"numberofset":"70",
-"linkaddon":"/70Set",
-"startFrom":"4"
-},
-{
-"name_of_model":"100 Practice Sets",
-"description":"100 Practice set this is best Exam Orientate.",
-"price" : "NRP 750",
-"purchased":"false",
-"numberofset":"100",
-"linkaddon":"/100Set",
-"startFrom":"4"
-}
-]}
+}]}
