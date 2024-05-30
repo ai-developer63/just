@@ -6,6 +6,11 @@
 "icon":"https://firebasestorage.googleapis.com/v0/b/free-bsc-and-mobile.appspot.com/o/Mbl_App_Content%2FimageIcon%2Fcourse.png?alt=media&token=153e4e90-8f45-4b58-b901-3122c4599845",
 "clickResponse":"a"
 },
+{
+"name":"practical",
+"icon":"https://firebasestorage.googleapis.com/v0/b/free-bsc-and-mobile.appspot.com/o/Mbl_App_Content%2FimageIcon%2Fplay.png?alt=media&token=51ad79b4-41b3-4e9f-bd3e-9763b2a4f013",
+"clickResponse":"e"
+},
 
 {
 "name":"Schematic",
@@ -24,7 +29,6 @@
 "icon":"https://firebasestorage.googleapis.com/v0/b/free-bsc-and-mobile.appspot.com/o/Mbl_App_Content%2FimageIcon%2Fplay.png?alt=media&token=51ad79b4-41b3-4e9f-bd3e-9763b2a4f013",
 "clickResponse":"d"
 }
-
 ]
 
 }
