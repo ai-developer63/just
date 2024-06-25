@@ -8,7 +8,7 @@
 "numberofset":"3",
 "linkaddon":"/free",
 "startFrom":"1",
-"modelType":"offical"
+"modelType":"1000"
 },
 {
 "name_of_model":"5 Practice Sets",
@@ -18,7 +18,7 @@
 "numberofset":"5",
 "linkaddon":"/5Set",
 "startFrom":"4",
-"modelType":"offical"
+"modelType":"1000"
 },
 {
 "name_of_model":"10 Practice Sets",
@@ -28,7 +28,7 @@
 "numberofset":"10",
 "linkaddon":"/10Set",
 "startFrom":"4",
-"modelType":"offical"
+"modelType":"1000"
 },
 {
 "name_of_model":"20 Practice Sets",
@@ -38,7 +38,7 @@
 "numberofset":"20",
 "linkaddon":"/20Set",
 "startFrom":"4",
-"modelType":"offical"
+"modelType":"1000"
 },
 {
 "name_of_model":"30 Practice Sets",
@@ -48,5 +48,15 @@
 "numberofset":"30",
 "linkaddon":"/30Set",
 "startFrom":"4",
-"modelType":"offical"
+"modelType":"1000"
+},
+{
+"name_of_model":"30 Practice Sets",
+"description":"30 Practice set this is best Exam Orientate.",
+"price" : "NPR 390",
+"purchased":"false",
+"numberofset":"30",
+"linkaddon":"/30Set",
+"startFrom":"4",
+"modelType":"1001"
 }]}
