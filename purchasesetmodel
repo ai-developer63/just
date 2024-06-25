@@ -7,7 +7,8 @@
 "purchased":"true",
 "numberofset":"3",
 "linkaddon":"/free",
-"startFrom":"1"
+"startFrom":"1",
+"modelType":"offical"
 },
 {
 "name_of_model":"5 Practice Sets",
@@ -16,7 +17,8 @@
 "purchased":"false",
 "numberofset":"5",
 "linkaddon":"/5Set",
-"startFrom":"4"
+"startFrom":"4",
+"modelType":"offical"
 },
 {
 "name_of_model":"10 Practice Sets",
@@ -25,7 +27,8 @@
 "purchased":"false",
 "numberofset":"10",
 "linkaddon":"/10Set",
-"startFrom":"4"
+"startFrom":"4",
+"modelType":"offical"
 },
 {
 "name_of_model":"20 Practice Sets",
@@ -34,7 +37,8 @@
 "purchased":"false",
 "numberofset":"20",
 "linkaddon":"/20Set",
-"startFrom":"4"
+"startFrom":"4",
+"modelType":"offical"
 },
 {
 "name_of_model":"30 Practice Sets",
@@ -43,5 +47,6 @@
 "purchased":"false",
 "numberofset":"30",
 "linkaddon":"/30Set",
-"startFrom":"4"
+"startFrom":"4",
+"modelType":"offical"
 }]}
