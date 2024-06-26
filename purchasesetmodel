@@ -1,6 +1,17 @@
 { "sets_collections": [
 
 {
+"name_of_model":"Subash Sir ko Set",
+"description":"Sets Free For Subash Sir Student",
+"price" : "Sponsered",
+"purchased":"true",
+"numberofset":"10",
+"linkaddon":"/10Set",
+"startFrom":"4",
+"modelType":"1001"
+},
+
+{
 "name_of_model":"Free Practice Sets",
 "description":"3 Practice set this is best Exam Orientate.",
 "price" : "Absolutely Free",
@@ -49,14 +60,4 @@
 "linkaddon":"/30Set",
 "startFrom":"4",
 "modelType":"1000"
-},
-{
-"name_of_model":"Subash Sir ko Set",
-"description":"Sets Free For Subash Sir Student",
-"price" : "Sponsered",
-"purchased":"true",
-"numberofset":"10",
-"linkaddon":"/10Set",
-"startFrom":"4",
-"modelType":"1001"
 }]}
