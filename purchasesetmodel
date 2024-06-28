@@ -1,8 +1,17 @@
 { "sets_collections": [
-
 {
-"name_of_model":"Subash Sir ko Set",
-"description":"Sets Free For Subash Sir Student",
+"name_of_model":"Dinesh Sir ko Set",
+"description":"Sets Free For Dinesh Sir Student",
+"price" : "Sponsered",
+"purchased":"true",
+"numberofset":"10",
+"linkaddon":"/10Set",
+"startFrom":"4",
+"modelType":"1002"
+},
+{
+"name_of_model":"Salik Sir ko Set",
+"description":"Sets Free For Salik Sir Student",
 "price" : "Sponsered",
 "purchased":"true",
 "numberofset":"10",
