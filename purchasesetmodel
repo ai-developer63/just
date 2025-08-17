@@ -69,4 +69,24 @@
 "linkaddon":"/30Set",
 "startFrom":"4",
 "modelType":"1000"
-}]}
+},
+{
+"name_of_model":"50 Practice Sets",
+"description":"50 Practice set this is best Exam Orientate.",
+"price" : "NPR 390",
+"purchased":"false",
+"numberofset":"50",
+"linkaddon":"/50Set",
+"startFrom":"4",
+"modelType":"1000"
+},{
+"name_of_model":"70 Practice Sets",
+"description":"70 Practice set this is best Exam Orientate.",
+"price" : "NPR 390",
+"purchased":"false",
+"numberofset":"70",
+"linkaddon":"/70Set",
+"startFrom":"4",
+"modelType":"1000"
+}
+]}
