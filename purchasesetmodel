@@ -18,7 +18,8 @@
 "numberofset":"10",
 "linkaddon":"/10Set",
 "startFrom":"4",
-"modelType":"1001"
+"modelType":"1001",
+"type":"J"
 },
 
 {
@@ -39,7 +40,8 @@
 "numberofset":"5",
 "linkaddon":"/5Set",
 "startFrom":"4",
-"modelType":"1000"
+"modelType":"1000",
+"type":"J"
 },{
 "name_of_model":"10 Practice Sets",
 "description":"10 Practice set this is best Exam Orientate.",
@@ -48,7 +50,8 @@
 "numberofset":"10",
 "linkaddon":"/10Set",
 "startFrom":"4",
-"modelType":"1000"
+"modelType":"1000",
+"type":"J"
 },
 {
 "name_of_model":"20 Practice Sets",
@@ -58,7 +61,8 @@
 "numberofset":"20",
 "linkaddon":"/20Set",
 "startFrom":"4",
-"modelType":"1000"
+"modelType":"1000",
+"type":"J"
 },
 {
 "name_of_model":"30 Practice Sets",
@@ -68,7 +72,8 @@
 "numberofset":"30",
 "linkaddon":"/30Set",
 "startFrom":"4",
-"modelType":"1000"
+"modelType":"1000",
+"type":"J"
 },
 {
 "name_of_model":"50 Practice Sets",
@@ -78,7 +83,8 @@
 "numberofset":"50",
 "linkaddon":"/50Set",
 "startFrom":"4",
-"modelType":"1000"
+"modelType":"1000",
+"type":"J"
 },{
 "name_of_model":"70 Practice Sets",
 "description":"70 Practice set this is best Exam Orientate.",
@@ -87,6 +93,7 @@
 "numberofset":"70",
 "linkaddon":"/70Set",
 "startFrom":"4",
-"modelType":"1000"
+"modelType":"1000",
+"type":"J"
 }
 ]}
