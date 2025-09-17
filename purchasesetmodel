@@ -7,7 +7,8 @@
 "numberofset":"10",
 "linkaddon":"/10Set",
 "startFrom":"4",
-"modelType":"1002"
+"modelType":"1002",
+"type":"k"
 },
 {
 "name_of_model":"Salik Sir ko Set",
@@ -28,8 +29,8 @@
 "numberofset":"3",
 "linkaddon":"/free",
 "startFrom":"1",
-"modelType":"1000"
-},
+"modelType":"1000",
+"type":"k"},
 {
 "name_of_model":"5 Practice Sets",
 "description":"5 Practice set this is best Exam Orientate.",
