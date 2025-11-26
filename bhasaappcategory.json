@@ -1,0 +1,7 @@
+[
+  { "id": 1, "name": "Practise", "icon": "target", "enable": true, "action": "home" },
+  { "id": 2, "name": "Videos", "icon": "video_icon", "enable": true, "action": "video" },
+  { "id": 3, "name": "Result", "icon": "experience", "enable": true, "action": "result" },
+  { "id": 4, "name": "Info", "icon": "info", "enable": true, "action": "info" },
+  { "id": 5, "name": "News", "icon": "news_reporter", "enable": false, "action": "news" }
+]
