@@ -1,7 +1,8 @@
 {
-  "totalTime": "1vs1 Battel Small Service Update",
-  "state": "maintainace",
-  "End": "2026-06-03 16:40:00",
-  "latestversonName": "1.36",
-  "updatecancelable": false
+  "message" : "Small security update we will be back in 15 mins than you for patience",
+  "state" : "maintainace",
+  "latestversonName" : "1.36",
+  "updatecancelable" : false,
+  "allowNewRegistrations" : true,
+  "End" : "2026-08-19 08:16:23"
 }
